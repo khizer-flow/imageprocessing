@@ -56,10 +56,7 @@ This project demonstrates fundamental image processing techniques using Python 3
 8. **Edge Detection**  
    Applies horizontal and vertical edge kernels.
 
-## Authors
 
-- Artificial Intelligence LAB Final  
-- Group Members: (Add your names here)
 
 ---
 
