@@ -60,4 +60,4 @@ This project demonstrates fundamental image processing techniques using Python 3
 
 ---
 
-For questions or improvements, please edit `DIP2.ipynb` or
+
